@@ -26,7 +26,9 @@ print(round(dis,2))
 
 
 ### OUTPUT:
-![output](/distance.png)
+
+![Screenshot 2023-12-28 154056](https://github.com/JOHNPAULSUBIKSHA/DISTANCE-BETWEEN-TWO-POINTS/assets/150279319/e1d04f4b-f2c3-491c-ae36-d613cf4a7c7e)
+
 
 ### RESULT:
 The program had executed successfully
